@@ -45,13 +45,14 @@
 </a>
 </p>
 
+<!--
 ## :computer: My TodoList as of 2022:
 - :pill: Common : Slack, Notion, Linux, AWS
 - :gem: Front-end : Dart, Flutter
 - :muscle: Back-end : Node.js, PostgreSQL, Redis
 - :ghost: Toy : Kotlin, Android, Swift, iOS
 
-<!--
+
 **jyryuitpro/jyryuitpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
