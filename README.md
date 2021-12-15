@@ -8,6 +8,7 @@
 ## :email: Find me on:
 <p align="left">
 <a href="mailto:jy.ryu.jiyoung@gmail.com"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.notion.so/47d30dc4664e445aa1835673b8fad1fd"> <img src="https://user-images.githubusercontent.com/67634983/146180243-223e0439-67b1-4482-b632-30038fec7038.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.youtube.com/channel/UCs2wo-NIZdPctnKn1AKIkiQ"> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="Youtube" height="40" style="vertical-align:top; margin:4px"></a>  
 </p>
 
