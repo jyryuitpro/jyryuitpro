@@ -11,8 +11,8 @@
 <p align="left">
 <!-- <a href="https://www.youtube.com/channel/UCOT9uW4rUaATfXH3fLzr_Pg"> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="Youtube" height="40" style="vertical-align:top; margin:4px"></a> -->
 <a href="https://user-images.githubusercontent.com/67634983/190881188-09bac0df-6e50-476a-8e78-835ef246dc49.jpeg"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/KakaoTalk_logo.svg" alt="KakaoTalk" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:jy.ryu.itpro@gmail.com"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-<!-- <a href="https://jyryuitpro.notion.site/Android-Team-1286ae4993444a6c8eb6961ffba56501"> <img src="https://user-images.githubusercontent.com/67634983/146180243-223e0439-67b1-4482-b632-30038fec7038.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a> -->
+<a href="mailto:jy.ryu.jiyoung@gmail.com"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://jyryuitpro.notion.site/Android-Team-1286ae4993444a6c8eb6961ffba56501"> <img src="https://user-images.githubusercontent.com/67634983/146180243-223e0439-67b1-4482-b632-30038fec7038.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
