@@ -1,5 +1,5 @@
 ## Hi there, I'm Jiyoung! 👋
-- 🎯 I’m intensively learning [Kotlin, AOS], [Dart, Flutter], [Swift, iOS]
+- 🎯 I’m intensively learning [Kotlin, AOS], [Dart, Flutter]
 - 👯 I’m looking to collaborate with anyone on any project
 - 💬 Ask me about anything
 - 🤔 Don't reinvent the wheel
